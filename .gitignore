@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 UNUSED/
 mnevenv/
+data/
 
 # C extensions
 *.so
