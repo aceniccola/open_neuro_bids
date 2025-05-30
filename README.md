@@ -245,3 +245,5 @@ This project uses the MNE sample dataset, which is freely available for research
 **🎉 Congratulations on completing your first MEG machine learning project!**
 
 *This README demonstrates a complete, professional-grade neuroimaging analysis that achieves state-of-the-art performance on a classic neuroscience problem.*
+
+Remember to build out the connectome on a website. Check features using the best feature decider (maybe random forest)
