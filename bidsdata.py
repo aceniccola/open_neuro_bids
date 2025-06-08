@@ -49,5 +49,9 @@ task = "rest"
 suffix = "eeg"
 
 bids_path = bids_path.update(subject=subject, task=task, suffix=suffix)
-
+# build in a 21 path bci
+# for now i cant run so i wont commit the code
+'''for i in range(21):
+    bids_path.update(subject, task[i], suffix)'''
+    
 print(bids_path)
